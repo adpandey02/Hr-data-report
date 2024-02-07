@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](D:\projects\data analytics\visualisation\Screenshot)
+![image](https://github.com/adpandey02/Hr-data-report/blob/main/Screenshot.png)
 
 ## Data Used
 
